@@ -1,2 +1,5 @@
 apple
 banana
+kela
+akhrot
+amrood
